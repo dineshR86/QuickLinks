@@ -21,7 +21,7 @@
     "officeFabricIconFontName": "Page",
     "properties": {
       "description": "QuickLinks",
-      "quicklinks":"[{\"name\":\"link1\",\"url\":\"http://google.com\",\"imageurl\":\"https://workplace.uat.bupa.com.au/PinImages/Profile.png\"},{\"name\":\"link2\",\"url\":\"http://google.com\",\"imageurl\":\"https://workplace.uat.bupa.com.au/PinImages/Profile.png\"},{\"name\":\"link1\",\"url\":\"http://google.com\",\"imageurl\":\"https://workplace.uat.bupa.com.au/PinImages/Profile.png\"}]"
+      "quicklinks":"[{\"name\":\"link1\",\"url\":\"http://google.com\",\"imageurl\":\"https://workplace.uat.bupa.com.au/PinImages/Profile.png\",\"order\":1},{\"name\":\"link2\",\"url\":\"http://google.com\",\"imageurl\":\"https://workplace.uat.bupa.com.au/PinImages/Profile.png\",\"order\":2},{\"name\":\"link1\",\"url\":\"http://google.com\",\"imageurl\":\"https://workplace.uat.bupa.com.au/PinImages/Profile.png\",\"order\":3}]"
     }
   }]
 }
