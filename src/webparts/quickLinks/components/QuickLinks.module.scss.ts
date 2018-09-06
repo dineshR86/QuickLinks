@@ -1,9 +1,9 @@
 /* tslint:disable */
 require('./QuickLinks.module.css');
 const styles = {
-  quickLinks: 'quickLinks_8033f1a7',
-  heading: 'heading_8033f1a7',
-  container: 'container_8033f1a7',
+  quickLinks: 'quickLinks_adf7c3ca',
+  heading: 'heading_adf7c3ca',
+  container: 'container_adf7c3ca',
 };
 
 export default styles;
